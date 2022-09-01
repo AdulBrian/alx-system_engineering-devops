@@ -1,5 +1,3 @@
 #!/bin/bash
 0 string SCHOOL School data
 !:mime School
-Then on Ur terminal run
- file -C -m school.mgc
