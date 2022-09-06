@@ -1,3 +1,2 @@
 #!/bin/bash
-echo '"(Ôo)'
-$ wc -l file
+echo "\"(Ôo)'"
